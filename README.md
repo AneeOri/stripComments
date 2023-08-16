@@ -1,0 +1,2 @@
+# stripComments
+Created with CodeSandbox
